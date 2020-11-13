@@ -1,0 +1,6 @@
+usr/local/bin/ballotbox-qt usr/bin
+share/pixmaps/ballotbox32.xpm usr/share/pixmaps
+share/pixmaps/ballotbox16.xpm usr/share/pixmaps
+share/pixmaps/ballotbox128.png usr/share/pixmaps
+debian/ballotbox-qt.desktop usr/share/applications
+debian/ballotbox-qt.protocol usr/share/kde4/services/

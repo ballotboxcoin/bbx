@@ -1,0 +1,8 @@
+/usr/bin/ballotbox-cli		--	gen_context(system_u:object_r:ballotbox_exec_t,s0)
+/usr/sbin/ballotboxd		--	gen_context(system_u:object_r:ballotbox_exec_t,s0)
+/usr/lib(64)?/ballotbox/ballotboxd		--	gen_context(system_u:object_r:ballotbox_exec_t,s0)
+
+/etc/ballotbox(/.*)?		gen_context(system_u:object_r:ballotbox_conf_t,s0)
+/var/lib/ballotbox(/.*)?		gen_context(system_u:object_r:ballotbox_var_lib_t,s0)
+
+(/var)?/run/ballotboxd(/.*)?   gen_context(system_u:object_r:ballotbox_var_run_t,s0)

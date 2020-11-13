@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Ballotbox Core
+Comment=Ballotbox P2P Cryptocurrency
+Exec=ballotbox-qt %u
+Terminal=false
+Type=Application
+Icon=ballotbox128
+MimeType=x-scheme-handler/ballotbox;
+Categories=Office;Finance;
+StartupWMClass=Ballotbox-qt
+Name[en_US]=ballotbox-qt.desktop
