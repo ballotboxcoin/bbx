@@ -10,8 +10,7 @@ The goal of Ballotbox is to achieve a decentralized sustainable crypto currency 
 - Fast transactions featuring guaranteed zero confirmation transactions, we call it _SwiftX_.
 - Decentralized blockchain voting utilizing Masternode technology to form a DAO. The blockchain will distribute monthly treasury funds based on successful proposals submitted by the community and voted on by the DAO.
 
-More information at [ballotbox.dev](http://www.ballotbox.dev) Visit our ANN thread at [BitcoinTalk](http://www.bitcointalk.org/index.php?topic=1262920)
-
+More information at [ballotbox.dev](http://www.ballotbox.dev)
 ### Coin Specs
 <table>
 <tr><td>Algo</td><td>Quark</td></tr>
