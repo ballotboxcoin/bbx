@@ -30,7 +30,7 @@ More information at [ballotbox.dev](http://www.ballotbox.dev)
 ### PoW Rewards Breakdown
 
 <table>
-<th>Block Height</th><th>Masternodes</th><th>Miner' Reward</th><th>Stakers</th>
+<th>Block Height</th><th>Masternodes</th><th>Miner's Reward</th><th>Stakers</th>
 <tr><td>0-400(PoW ENDED)</td><td>0% (0 BBX)</td><td>100% (20 BBX)</td><td>0.00</td></tr>
 </table>
 
@@ -38,7 +38,7 @@ More information at [ballotbox.dev](http://www.ballotbox.dev)
 ### PoS Rewards Breakdown
 
 <table>
-<th>Phase</th><th>BLOCK HEIGHT</th><th>COLLATERAL</th><th>BLOCK REWARD</th><th>MASTERNODES REWARD</th><th>STAKING</th>
+<th>Phase</th><th>BLOCK HEIGHT</th><th>COLLATERAL</th><th>BLOCK REWARD</th><th>MASTERNODE REWARD</th><th>STAKING</th>
 <tr><td>Phase 1</td><td>401 - 10000</td><td>1 BBX</td><td>0.005 BBX</td><td>0.0045 BBX</td><td>0.0005 BBX</td></tr>
 <tr><td>Phase 2</td><td>10001 - 15000</td><td>3 BBX</td><td>0.006 BBX</td><td>0.0054 BBX</td><td>0.0006 BBX</td></tr>
 <tr><td>Phase 3</td><td>15001 - 30000</td><td>9 BBX</td><td>0.007 BBX</td><td>0.0063 BBX</td><td>0.0007 BBX</td></tr>
