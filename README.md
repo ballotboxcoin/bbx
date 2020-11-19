@@ -13,14 +13,18 @@ The principal objective of BBX is to champion the innovative use of efficient bl
 More information at [ballotbox.dev](http://www.ballotbox.dev)
 ### Coin Specs
 <table>
-<tr><td>Algo</td><td>Quark</td></tr>
-<tr><td>Block Time</td><td>60 Seconds</td></tr>
-<tr><td>Block Maturity</td><td>100 (+ 1 default confirmation) blocks</td></tr>
-<tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
-<tr><td>Premine</td><td>2% (1,000,000 COINS)</td></tr>
+<tr><td>ALGO</td><td>Quark</td></tr>
+<tr><td>BLOCK TIME</td><td>60 Seconds</td></tr>
+<tr><td>BLOCK MATURITY</td><td>100 (+ 1 default confirmation) blocks</td></tr>
+<tr><td>DIFFICULTY RETARGETING</td><td>Every Block</td></tr>
+<tr><td>PREMINE</td><td>2% (1,000,000 COINS)</td></tr>
+</table>
+<tr><td>RPC PORT</td><td>1770</td></tr>
+</table>
+<tr><td>P2P PORT</td><td>1769</td></tr>
 </table>
 
-# TODO: update reward distribution table
+
 
 ### Reward Distribution
 
