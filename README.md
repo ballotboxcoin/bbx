@@ -18,8 +18,8 @@ More information at [ballotbox.dev](http://www.ballotbox.dev)
 <tr><td>BLOCK MATURITY</td><td>100 (+ 1 default confirmation) blocks</td></tr>
 <tr><td>DIFFICULTY RETARGETING</td><td>Every Block</td></tr>
 <tr><td>PREMINE</td><td>2% (1,000,000 COINS)</td></tr>
-<tr><td>RPC PORT</td><td>1770</td></tr></table>
-<tr><td>P2P PORT</td><td>1769</td></tr></table>
+<tr><td>RPC PORT</td><td>1770</td></tr>
+<tr><td>P2P PORT</td><td>1769</td></tr>
 </table>
 
 
