@@ -30,7 +30,7 @@ More information at [ballotbox.dev](http://www.ballotbox.dev)
 
 <table>
 <th>Block Height</th><th>Masternodes</th><th>Miner' Reward</th><th>Stakers</th>
-<tr><td>0-400(POW ENDED)</td><td>0% (0 BBX)</td><td>100% (20 BBX)</td><td>0.00</td></tr>
+<tr><td>0-400(PoW ENDED)</td><td>0% (0 BBX)</td><td>100% (20 BBX)</td><td>0.00</td></tr>
 </table>
 
 ### PoS Rewards Breakdown
